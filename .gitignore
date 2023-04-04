@@ -1,0 +1,6 @@
+_site/
+_config.yml
+.jekyll-metadata
+Gemfile
+Gemfile.lock
+__pycache__
